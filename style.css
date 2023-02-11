@@ -1,21 +1,24 @@
 body {
-    background-color: #64FFDA ;
-    color: #212121;
+    background-color: #8155BA ;
+    color: #fff ;
     text-align: center;
     margin: 70px;
-    font-family:cursive;
+    font-family:Arial, Helvetica, sans-serif;
 }
 
 a {
-    color: #212121;
+    color: #fff;
 }
 h1 {
     font-size: 70px;
 }
 
+h2 {
+    font-size: 40px;
+}
 a:hover {
     color: #fff;
-    background-color: #004D40;
+    background-color: #695E93 ;
 }
 img {
     width: 400px;
